@@ -2,6 +2,10 @@
 #include <stdio.h>
 
 
+
+//THIS IS A MESS!!!!!
+
+
 int sumPrimes(int num);
 int getPrimes(int max);
 
